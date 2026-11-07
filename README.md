@@ -23,7 +23,7 @@ PYTHONPATH=. ruff check .
 
 ## Seed data
 
-The project includes a generated seed file at [data/seed.json](data/seed.json). This file is intentionally used as the canonical dataset for the application and should not be edited by hand. The generator can be re-run with:
+The project includes a   generated seed file at [data/seed.json](data/seed.json). This file is intentionally used as the canonical dataset for the application and should not be edited by hand. The generator can be re-run with:
 
 ```bash
 source .venv/bin/activate
